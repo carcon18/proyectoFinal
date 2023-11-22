@@ -210,5 +210,4 @@ const  deleteCharacter = async (req = request, res = response) => {
     }
 
 
-
 module.exports = {Characterslist, listCharacterByID, addCharacter, updateCharacter, deleteCharacter};
